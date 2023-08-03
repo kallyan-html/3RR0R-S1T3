@@ -1,0 +1,13 @@
+body{
+    background: #000000;
+    font-family: 'Noto-Sans', sans-serif;
+    cursor: default;
+    color: #000000;
+    padding: 15px;
+}
+.h1 {
+    color: #000000;
+    padding: 15px;
+    -webkit-text-fill-color: #000000;
+    text-align: center;
+}
